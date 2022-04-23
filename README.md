@@ -35,6 +35,11 @@
 
 &nbsp;
 
+
+#### A ideia inicial foi baseada em um dos posts do Zuber Dunge, caso tenha interesse, [clique aqui e acesse o projeto original](https://blog.zuberdunge.tech/batlist-a-watchlist-extension-for-youtube#heading-problems-i-faced)
+
+&nbsp;
+
 ---
 
 <p align="center">Feito com 💙 por <a href="https://www.gbdev.me/">Gabriel Borges</a></p>
